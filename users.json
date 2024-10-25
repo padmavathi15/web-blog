@@ -1,0 +1,76 @@
+[
+  {
+    "username": "padma",
+    "email": "padma@gmail.com",
+    "phone": "7259035543",
+    "password": "padma",
+    "gender": "female",
+    "dob": "1994-03-13",
+    "city": "BENGALURU RURAL",
+    "country": "India",
+    "state": "Karnataka",
+    "profilePic": "uploads\\1729772160241-780624899-WIN_20241021_12_39_26_Pro.jpg"
+  },
+  {
+    "username": "abc",
+    "email": "abc@gmail.com",
+    "phone": "9999999000",
+    "password": "abc",
+    "gender": "female",
+    "dob": "2024-10-08",
+    "city": "BENGALURU RURAL",
+    "country": "India",
+    "state": "Karnataka",
+    "countryCode": "+91",
+    "profilePic": "uploads\\1729750136315-48880839-Stamp size.jpg"
+  },
+  {
+    "username": "paddu",
+    "email": "paddu@gmail.com",
+    "phone": "6767657672",
+    "password": "paddu",
+    "gender": "female",
+    "dob": "2024-10-09",
+    "city": "BENGALURU RURAL",
+    "country": "India",
+    "state": "Karnataka",
+    "countryCode": "+91"
+  },
+  {
+    "username": "padmavathi",
+    "email": "padmavathi@gmail.com",
+    "phone": "7259021345",
+    "password": "padmaa",
+    "gender": "Female",
+    "dob": "2024-10-17",
+    "city": "BENGALURU RURAL",
+    "country": "India",
+    "state": "Karnataka",
+    "countryCode": "+91"
+  },
+  {
+    "username": "aaa",
+    "email": "aaaa@gmail.com",
+    "phone": "0259035543",
+    "password": "padmaa",
+    "gender": "Female",
+    "dob": "2024-10-03",
+    "city": "BENGALURU RURAL",
+    "country": "India",
+    "state": "Karnataka",
+    "countryCode": "+91",
+    "profilePic": "uploads\\1729772313597-442436415-WIN_20241021_12_39_26_Pro.jpg"
+  },
+  {
+    "username": "padma",
+    "email": "p@gmail.com",
+    "phone": "3444654657",
+    "password": "padmaa",
+    "gender": "Female",
+    "dob": "2024-10-11",
+    "city": "BENGALURU RURAL",
+    "country": "India",
+    "state": "Karnataka",
+    "countryCode": "+91"
+  }
+]

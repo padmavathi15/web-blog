@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1729835415503,
+    "sharedBy": "abc@gmail.com",
+    "postId": "1729772808771",
+    "originalAuthor": "abc@gmail.com",
+    "timestamp": "2024-10-25T05:50:15.503Z"
+  },
+  {
+    "id": 1729835425711,
+    "sharedBy": "abc@gmail.com",
+    "postId": "1729774024211",
+    "originalAuthor": "padma@gmail.com",
+    "timestamp": "2024-10-25T05:50:25.711Z"
+  },
+  {
+    "id": 1729835943572,
+    "sharedBy": "abc@gmail.com",
+    "postId": "1729774024211",
+    "originalAuthor": "padma@gmail.com",
+    "originalAuthor1": "padma@gmail.com",
+    "timestamp": "2024-10-25T05:59:03.572Z"
+  },
+  {
+    "id": 1729836067952,
+    "sharedBy": "padma@gmail.com",
+    "postId": "1729772808771",
+    "originalAuthor": "abc@gmail.com",
+    "originalAuthor1": "abc",
+    "timestamp": "2024-10-25T06:01:07.952Z"
+  },
+  {
+    "id": 1729836397740,
+    "sharedBy": "abc@gmail.com",
+    "postId": "1729774024211",
+    "originalAuthor": "padma@gmail.com",
+    "originalAuthor1": "padma",
+    "sharedByUser": "abc",
+    "timestamp": "2024-10-25T06:06:37.740Z"
+  },
+  {
+    "id": 1729836909817,
+    "sharedBy": "padma@gmail.com",
+    "postId": "1729772808771",
+    "originalAuthor": "abc@gmail.com",
+    "originalAuthor1": "abc",
+    "sharedByUser": "padma",
+    "timestamp": "2024-10-25T06:15:09.817Z"
+  },
+  {
+    "id": 1729837602934,
+    "sharedBy": "padmavathi@gmail.com",
+    "postId": "1729788466100",
+    "originalAuthor": "padma@gmail.com",
+    "originalAuthor1": "padma",
+    "sharedByUser": "padmavathi",
+    "timestamp": "2024-10-25T06:26:42.934Z"
+  },
+  {
+    "id": 1729838139597,
+    "sharedBy": "padma@gmail.com",
+    "postId": "1729830164537",
+    "originalAuthor": "padma@gmail.com",
+    "originalAuthor1": "padma",
+    "sharedByUser": "padma",
+    "timestamp": "2024-10-25T06:35:39.597Z"
+  }
+]
